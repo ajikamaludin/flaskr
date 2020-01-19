@@ -44,6 +44,6 @@ explain how to run the automated tests for this system
 ## Authors
 - Aji Kamaludin - *initial work* - [Aji Kamaludin](https://github.com/ajikamaludin)
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md] file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ajikamaludin/flaskr/blob/master/LICENSE) file for details
 ## Acknowledgments
 - Just an example
